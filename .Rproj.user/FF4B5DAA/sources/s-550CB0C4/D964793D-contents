@@ -1,0 +1,24 @@
+Ex 1 :
+  
+a.There a 9 Pcs
+b. we had 32 predictors
+c.  the variation explained at PC1 - 62%
+    the variation explained at PC2 - 23%
+    Both PC1 + PC2 - 85%
+
+Ex 2 :
+
+a. pic
+b. pic
+c. pic + similar cars to Maserati Bora are Ford Pantera and Ferrari Dino, they are Sport cars
+d. we can see there are 3 groups of cyl + pic
+
+Ex 3 :
+a. pic + we can see that cyl have a strong crolite with pc1.
+b. pic
+
+Ex 4:
+a. we see 3 clusters, Europe , Japan , US
+b. the japans cluster is characterized with high Mpg predictor
+c. the Us cluster is characterized with high Cyl predictor
+d. another predictors that have a high characterized with US cluster are Displacement and Weight 
